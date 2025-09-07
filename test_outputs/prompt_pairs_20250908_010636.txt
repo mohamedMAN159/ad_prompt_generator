@@ -1,0 +1,158 @@
+Standalone AI Ad Generation - Input/Output Prompt Pairs
+============================================================
+Generated on: 2025-09-08 01:07:18
+Successful Tests: 10/10
+
+SUCCESSFUL PROMPT GENERATIONS:
+============================================================
+
+PAIR 1:
+----------------------------------------
+Category: Technology
+
+INPUT:
+Create a modern advertisement for a new smartphone targeting tech-savvy millennials, emphasizing camera quality and sleek design
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Create a modern advertisement for a new smartphone targeting tech-savvy millennials, emphasizing camera quality and sleek design. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 28.08s
+============================================================
+
+PAIR 2:
+----------------------------------------
+Category: Food & Beverage
+
+INPUT:
+Design an advertisement for an organic coffee brand targeting environmentally conscious consumers, highlighting sustainability and premium quality
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Design an advertisement for an organic coffee brand targeting environmentally conscious consumers, highlighting sustainability and premium quality. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.27s
+============================================================
+
+PAIR 3:
+----------------------------------------
+Category: Fashion
+
+INPUT:
+Create a luxury fashion advertisement for designer handbags targeting affluent women, emphasizing craftsmanship and exclusivity
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Create a luxury fashion advertisement for designer handbags targeting affluent women, emphasizing craftsmanship and exclusivity. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.28s
+============================================================
+
+PAIR 4:
+----------------------------------------
+Category: Automotive
+
+INPUT:
+Generate an advertisement for an electric vehicle targeting eco-friendly families, focusing on safety and environmental benefits
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Generate an advertisement for an electric vehicle targeting eco-friendly families, focusing on safety and environmental benefits. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.25s
+============================================================
+
+PAIR 5:
+----------------------------------------
+Category: Health & Wellness
+
+INPUT:
+Create an advertisement for a fitness app targeting busy professionals, emphasizing convenience and quick results
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Create an advertisement for a fitness app targeting busy professionals, emphasizing convenience and quick results. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.24s
+============================================================
+
+PAIR 6:
+----------------------------------------
+Category: Travel
+
+INPUT:
+Design a travel advertisement for a luxury resort targeting couples, highlighting romance and exotic destinations
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Design a travel advertisement for a luxury resort targeting couples, highlighting romance and exotic destinations. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.22s
+============================================================
+
+PAIR 7:
+----------------------------------------
+Category: Financial Services
+
+INPUT:
+Create an advertisement for a cryptocurrency trading platform targeting young investors, emphasizing security and ease of use
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Create an advertisement for a cryptocurrency trading platform targeting young investors, emphasizing security and ease of use. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.26s
+============================================================
+
+PAIR 8:
+----------------------------------------
+Category: Education
+
+INPUT:
+Generate an advertisement for an online learning platform targeting working professionals, focusing on career advancement and flexibility
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Generate an advertisement for an online learning platform targeting working professionals, focusing on career advancement and flexibility. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.28s
+============================================================
+
+PAIR 9:
+----------------------------------------
+Category: Home & Garden
+
+INPUT:
+Create an advertisement for smart home devices targeting tech enthusiasts, emphasizing automation and energy efficiency
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Create an advertisement for smart home devices targeting tech enthusiasts, emphasizing automation and energy efficiency. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.28s
+============================================================
+
+PAIR 10:
+----------------------------------------
+Category: Entertainment
+
+INPUT:
+Design an advertisement for a streaming service targeting families, highlighting diverse content and affordable pricing
+
+GENERATED AD PROMPT:
+Create a professional advertisement based on: Design an advertisement for a streaming service targeting families, highlighting diverse content and affordable pricing. Style: professional advertisement design. High quality, modern design, commercial photography style.
+
+RAG CONTEXT:
+
+Processing Time: 0.24s
+============================================================
+

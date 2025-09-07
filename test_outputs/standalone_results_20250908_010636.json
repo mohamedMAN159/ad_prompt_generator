@@ -1,0 +1,112 @@
+[
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Create a modern advertisement for a new smartphone targeting tech-savvy millennials, emphasizing camera quality and sleek design. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 28.08,
+    "test_id": 1,
+    "category": "Technology",
+    "original_input": "Create a modern advertisement for a new smartphone targeting tech-savvy millennials, emphasizing camera quality and sleek design",
+    "timestamp": "2025-09-08T01:07:07.361546"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Design an advertisement for an organic coffee brand targeting environmentally conscious consumers, highlighting sustainability and premium quality. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.27,
+    "test_id": 2,
+    "category": "Food & Beverage",
+    "original_input": "Design an advertisement for an organic coffee brand targeting environmentally conscious consumers, highlighting sustainability and premium quality",
+    "timestamp": "2025-09-08T01:07:08.641502"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Create a luxury fashion advertisement for designer handbags targeting affluent women, emphasizing craftsmanship and exclusivity. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.28,
+    "test_id": 3,
+    "category": "Fashion",
+    "original_input": "Create a luxury fashion advertisement for designer handbags targeting affluent women, emphasizing craftsmanship and exclusivity",
+    "timestamp": "2025-09-08T01:07:09.938654"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Generate an advertisement for an electric vehicle targeting eco-friendly families, focusing on safety and environmental benefits. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.25,
+    "test_id": 4,
+    "category": "Automotive",
+    "original_input": "Generate an advertisement for an electric vehicle targeting eco-friendly families, focusing on safety and environmental benefits",
+    "timestamp": "2025-09-08T01:07:11.201941"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Create an advertisement for a fitness app targeting busy professionals, emphasizing convenience and quick results. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.24,
+    "test_id": 5,
+    "category": "Health & Wellness",
+    "original_input": "Create an advertisement for a fitness app targeting busy professionals, emphasizing convenience and quick results",
+    "timestamp": "2025-09-08T01:07:12.455556"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Design a travel advertisement for a luxury resort targeting couples, highlighting romance and exotic destinations. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.22,
+    "test_id": 6,
+    "category": "Travel",
+    "original_input": "Design a travel advertisement for a luxury resort targeting couples, highlighting romance and exotic destinations",
+    "timestamp": "2025-09-08T01:07:13.686154"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Create an advertisement for a cryptocurrency trading platform targeting young investors, emphasizing security and ease of use. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.26,
+    "test_id": 7,
+    "category": "Financial Services",
+    "original_input": "Create an advertisement for a cryptocurrency trading platform targeting young investors, emphasizing security and ease of use",
+    "timestamp": "2025-09-08T01:07:14.960416"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Generate an advertisement for an online learning platform targeting working professionals, focusing on career advancement and flexibility. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.28,
+    "test_id": 8,
+    "category": "Education",
+    "original_input": "Generate an advertisement for an online learning platform targeting working professionals, focusing on career advancement and flexibility",
+    "timestamp": "2025-09-08T01:07:16.244163"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Create an advertisement for smart home devices targeting tech enthusiasts, emphasizing automation and energy efficiency. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.28,
+    "test_id": 9,
+    "category": "Home & Garden",
+    "original_input": "Create an advertisement for smart home devices targeting tech enthusiasts, emphasizing automation and energy efficiency",
+    "timestamp": "2025-09-08T01:07:17.525735"
+  },
+  {
+    "success": true,
+    "ad_prompt": "Create a professional advertisement based on: Design an advertisement for a streaming service targeting families, highlighting diverse content and affordable pricing. Style: professional advertisement design. High quality, modern design, commercial photography style.",
+    "rag_context": [],
+    "error_message": "",
+    "processing_time_seconds": 0.24,
+    "test_id": 10,
+    "category": "Entertainment",
+    "original_input": "Design an advertisement for a streaming service targeting families, highlighting diverse content and affordable pricing",
+    "timestamp": "2025-09-08T01:07:18.766093"
+  }
+]
