@@ -5,7 +5,6 @@ AI agent for ad generation using Gemini (with Phi-3-mini fallback) and RAG.
 
 import logging
 from typing import Dict, Any
-
 import google.generativeai as genai
 from google.generativeai import GenerativeModel
 
@@ -191,4 +190,5 @@ class AdGenerationAgent:
             "vector_store_exists": vector_stats.get("exists", False),
             "document_count": vector_stats.get("count", 0),
             "flux_model": self.settings.flux_model
+
         }
