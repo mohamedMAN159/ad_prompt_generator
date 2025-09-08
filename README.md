@@ -132,7 +132,7 @@ response = requests.post("http://localhost:8000/generate-ad/",
 
 result = response.json()
 if result["success"]:
-    # result["generated_image"] contains base64-encoded PNG
+    # result["generated_image"] contains base64-encoded PNG 
     # result["ad_prompt"] contains the generated prompt
     print(f"Generated prompt: {result['ad_prompt']}")
 ```
