@@ -1,4 +1,4 @@
-# AI Ad Generation System
+# AI Ad Generation System @ beyond apps group
 
 A professional AI-powered advertisement generation system that combines Retrieval-Augmented Generation (RAG) with FLUX image generation to create compelling visual advertisements from text descriptions.
 
